@@ -6,9 +6,13 @@ color:
   saturation: 0.9218218484893441
   rhythmicContrast: 0.3364654639735818
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: tsymbalov
+navigation:
+  - name: Oleg
+    url: tsymbalov.info
+    type: external
